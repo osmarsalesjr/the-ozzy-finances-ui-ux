@@ -76,9 +76,7 @@ O fluxo prioriza uma tarefa recorrente e fundamental: registrar uma receita ou d
 
 A sequência principal é composta por seis telas:
 
-**[ESPAÇO RESERVADO PARA IMAGEM — Visão geral da jornada do usuário no Figma]**
-
-*Inserir aqui uma captura do protótipo completo, mostrando as seis telas e suas conexões de navegação.*
+![Visão Geral do Protótipo](https://1drv.ms/i/c/c417189aeed0f9d1/IQSdZkCNCdPSQJjPdTrWwXZgAXxwhzwRxwWJtxFCtJGX1pw?width=5104&height=1688)
 
 ### Etapas e objetivos de cada interação
 
@@ -90,7 +88,7 @@ A primeira tela funciona como ponto de entrada da aplicação. Sua estrutura apr
 
 A decisão de manter uma tela inicial objetiva evita apresentar informações excessivas antes de o usuário conhecer a aplicação. O foco está em comunicar a proposta e oferecer um caminho claro para avançar.
 
-**[ESPAÇO RESERVADO PARA IMAGEM — Tela 01: Boas-vindas]**
+![Tela 01: Boas-vindas](https://1drv.ms/i/c/c417189aeed0f9d1/IQRTFrili2GuTL2Ec5rCtArlAYEJ4ubzIsa6t-GkFryUEA8?width=480&height=1088)
 
 #### 2. Painel financeiro
 
@@ -102,7 +100,7 @@ A escolha de apresentar os dados de forma resumida procura reduzir o esforço ne
 
 A partir dessa tela, o usuário pode iniciar um novo lançamento ou acessar a lista completa de movimentações.
 
-**[ESPAÇO RESERVADO PARA IMAGEM — Tela 02: Painel financeiro]**
+![Tela 02: Painel Financeiro](https://1drv.ms/i/c/c417189aeed0f9d1/IQTYWmqGKHw7R5__MNAyhzThAaCH_KJUJknGWVaj21W-fRo?width=480&height=1088)
 
 #### 3. Novo lançamento
 
@@ -114,7 +112,7 @@ A organização em campos identificados procura tornar o preenchimento mais comp
 
 Também foram realizados ajustes nos textos apresentados nessa tela, priorizando o português brasileiro e a utilização de termos mais claros. Por exemplo, o campo anteriormente identificado como “Note · optional” passou a utilizar “Nota · opcional”.
 
-**[ESPAÇO RESERVADO PARA IMAGEM — Tela 03: Novo lançamento]**
+![Tela 03: Novo Lançamento](https://1drv.ms/i/c/c417189aeed0f9d1/IQROSMtCBHBPRrZZiJzqyflPAetj0RrArGkN7j9xM4LBp8g?width=480&height=1088)
 
 #### 4. Revisão
 
@@ -126,7 +124,7 @@ A existência dessa etapa procura reduzir a possibilidade de registros incorreto
 
 A ação de edição retorna à tela de novo lançamento, permitindo corrigir os dados sem precisar reiniciar todo o processo.
 
-**[ESPAÇO RESERVADO PARA IMAGEM — Tela 04: Revisão]**
+![Tela 04: Revisão](https://1drv.ms/i/c/c417189aeed0f9d1/IQTcLq5E6o-KQL8h09V0hyUQAfNL_HkXchVRDPrV5oeh6ic?width=480&height=1088)
 
 #### 5. Confirmação
 
@@ -136,7 +134,7 @@ Após a confirmação, o usuário visualiza uma tela de sucesso, com uma mensage
 
 A escolha de uma tela específica para essa etapa evita que o usuário precise deduzir se a ação foi executada corretamente. O retorno visual oferece previsibilidade e transmite maior segurança durante a utilização.
 
-**[ESPAÇO RESERVADO PARA IMAGEM — Tela 05: Confirmação]**
+![Tela 05: Confirmação](https://1drv.ms/i/c/c417189aeed0f9d1/IQTNSsPGmWBBS52_zNSz2NMXAbNNOsqxd-2xQy81_NO07aU?width=480&height=1088)
 
 #### 6. Lista de lançamentos
 
@@ -148,7 +146,7 @@ Essa organização complementa o painel inicial: enquanto o painel apresenta uma
 
 A navegação também oferece um caminho de retorno ao painel e uma ação para iniciar um novo lançamento.
 
-**[ESPAÇO RESERVADO PARA IMAGEM — Tela 06: Lista de lançamentos]**
+![Tela 06: Lista de Lançamentos](https://1drv.ms/i/c/c417189aeed0f9d1/IQQ7tykzdEYRQJMPiOGKG0qsAVFFzyhttNve7qIm_Loeubg?width=480&height=1088)
 
 ### Resumo da jornada
 
@@ -201,7 +199,7 @@ As conexões do protótipo foram configuradas no Figma para representar os segui
 - Confirmação direciona à lista;
 - Lista permite retornar ao painel.
 
-**[ESPAÇO RESERVADO PARA IMAGEM — Mapa de navegação do protótipo no Figma]**
+![Mapa de Navegação do Protótipo](https://1drv.ms/i/c/c417189aeed0f9d1/IQRswC6qqcRRTZlUBDBBRhprATBceMv1KvPWDOqze9_ZVso?width=1111&height=385)
 
 ### Decisões tomadas para facilitar o uso
 
@@ -276,7 +274,8 @@ A paleta documentada no Design System utiliza o verde escuro como cor institucio
 
 A utilização de cores distintas para receitas e despesas facilita a identificação dos tipos de movimentação. Entretanto, a compreensão dessas informações não deve depender exclusivamente da cor: os textos, sinais e identificadores também precisam comunicar o significado.
 
-**[ESPAÇO RESERVADO PARA IMAGEM — Paleta de cores do Design System no Figma]**
+![Paleta de Cores](https://1drv.ms/i/c/c417189aeed0f9d1/IQR-3fu-jLl4RKeFxXntbnecAZiR65o9X_CBciqPN-xmyfI?width=1360&height=840)
+
 
 ### Tipografia
 
@@ -297,7 +296,7 @@ A hierarquia tipográfica utiliza tamanhos diferentes para indicar a importânci
 
 Essa decisão facilita a leitura rápida do painel, permitindo que o usuário identifique primeiro os dados mais relevantes e consulte os detalhes quando necessário.
 
-**[ESPAÇO RESERVADO PARA IMAGEM — Hierarquia tipográfica do Design System no Figma]**
+![Tipografia do Sistema](https://1drv.ms/i/c/c417189aeed0f9d1/IQSBOWlLD-GGRaoU9lkOGAFcAWegR52b21DX0TyO2T_yjeE?width=2136&height=944)
 
 ### Componentes e padrões visuais
 
@@ -329,7 +328,7 @@ Os botões representam as ações disponíveis em cada etapa, enquanto os campos
 
 A padronização desses elementos contribui para manter a consistência visual e reduzir a necessidade de reaprender os padrões de interação em cada tela.
 
-**[ESPAÇO RESERVADO PARA IMAGEM — Componentes visuais do Design System no Figma]**
+![Componentes Visuais](https://1drv.ms/i/c/c417189aeed0f9d1/IQR5JTVI-EU_TqkfAMOhpYXyARd8ZOmgYufwopkbM2LvEqI?width=3136&height=1944)
 
 ### Formas, espaçamentos e organização
 
@@ -354,8 +353,6 @@ Foram realizadas correções como:
 - Correção da ordem do intervalo de datas apresentado na lista.
 
 A padronização para português brasileiro procura tornar a experiência mais natural para o público considerado e evitar que diferentes idiomas ou nomenclaturas causem dúvidas durante o preenchimento.
-
-**[ESPAÇO RESERVADO PARA IMAGEM — Comparativo visual das telas após a revisão textual]**
 
 ---
 
