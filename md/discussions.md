@@ -88,7 +88,7 @@ A primeira tela funciona como ponto de entrada da aplicação. Sua estrutura apr
 
 A decisão de manter uma tela inicial objetiva evita apresentar informações excessivas antes de o usuário conhecer a aplicação. O foco está em comunicar a proposta e oferecer um caminho claro para avançar.
 
-![Tela 01: Boas-vindas](https://1drv.ms/i/c/c417189aeed0f9d1/IQRTFrili2GuTL2Ec5rCtArlAYEJ4ubzIsa6t-GkFryUEA8?width=480&height=1088)
+![Tela 01: Boas-vindas](https://1drv.ms/i/c/c417189aeed0f9d1/IQRTFrili2GuTL2Ec5rCtArlAYEJ4ubzIsa6t-GkFryUEA8?width=480&height=640)
 
 #### 2. Painel financeiro
 
@@ -100,7 +100,7 @@ A escolha de apresentar os dados de forma resumida procura reduzir o esforço ne
 
 A partir dessa tela, o usuário pode iniciar um novo lançamento ou acessar a lista completa de movimentações.
 
-![Tela 02: Painel Financeiro](https://1drv.ms/i/c/c417189aeed0f9d1/IQTYWmqGKHw7R5__MNAyhzThAaCH_KJUJknGWVaj21W-fRo?width=480&height=1088)
+![Tela 02: Painel Financeiro](https://1drv.ms/i/c/c417189aeed0f9d1/IQTYWmqGKHw7R5__MNAyhzThAaCH_KJUJknGWVaj21W-fRo?width=480&height=640)
 
 #### 3. Novo lançamento
 
@@ -112,7 +112,7 @@ A organização em campos identificados procura tornar o preenchimento mais comp
 
 Também foram realizados ajustes nos textos apresentados nessa tela, priorizando o português brasileiro e a utilização de termos mais claros. Por exemplo, o campo anteriormente identificado como “Note · optional” passou a utilizar “Nota · opcional”.
 
-![Tela 03: Novo Lançamento](https://1drv.ms/i/c/c417189aeed0f9d1/IQROSMtCBHBPRrZZiJzqyflPAetj0RrArGkN7j9xM4LBp8g?width=480&height=1088)
+![Tela 03: Novo Lançamento](https://1drv.ms/i/c/c417189aeed0f9d1/IQROSMtCBHBPRrZZiJzqyflPAetj0RrArGkN7j9xM4LBp8g?width=480&height=640)
 
 #### 4. Revisão
 
@@ -124,7 +124,7 @@ A existência dessa etapa procura reduzir a possibilidade de registros incorreto
 
 A ação de edição retorna à tela de novo lançamento, permitindo corrigir os dados sem precisar reiniciar todo o processo.
 
-![Tela 04: Revisão](https://1drv.ms/i/c/c417189aeed0f9d1/IQTcLq5E6o-KQL8h09V0hyUQAfNL_HkXchVRDPrV5oeh6ic?width=480&height=1088)
+![Tela 04: Revisão](https://1drv.ms/i/c/c417189aeed0f9d1/IQTcLq5E6o-KQL8h09V0hyUQAfNL_HkXchVRDPrV5oeh6ic?width=480&height=640)
 
 #### 5. Confirmação
 
@@ -134,7 +134,7 @@ Após a confirmação, o usuário visualiza uma tela de sucesso, com uma mensage
 
 A escolha de uma tela específica para essa etapa evita que o usuário precise deduzir se a ação foi executada corretamente. O retorno visual oferece previsibilidade e transmite maior segurança durante a utilização.
 
-![Tela 05: Confirmação](https://1drv.ms/i/c/c417189aeed0f9d1/IQTNSsPGmWBBS52_zNSz2NMXAbNNOsqxd-2xQy81_NO07aU?width=480&height=1088)
+![Tela 05: Confirmação](https://1drv.ms/i/c/c417189aeed0f9d1/IQTNSsPGmWBBS52_zNSz2NMXAbNNOsqxd-2xQy81_NO07aU?width=480&height=640)
 
 #### 6. Lista de lançamentos
 
@@ -146,7 +146,7 @@ Essa organização complementa o painel inicial: enquanto o painel apresenta uma
 
 A navegação também oferece um caminho de retorno ao painel e uma ação para iniciar um novo lançamento.
 
-![Tela 06: Lista de Lançamentos](https://1drv.ms/i/c/c417189aeed0f9d1/IQQ7tykzdEYRQJMPiOGKG0qsAVFFzyhttNve7qIm_Loeubg?width=480&height=1088)
+![Tela 06: Lista de Lançamentos](https://1drv.ms/i/c/c417189aeed0f9d1/IQQ7tykzdEYRQJMPiOGKG0qsAVFFzyhttNve7qIm_Loeubg?width=480&height=640)
 
 ### Resumo da jornada
 
@@ -463,3 +463,12 @@ O protótipo navegável permite demonstrar a lógica de interação planejada e 
 Como próxima evolução, recomenda-se aprofundar os testes de usabilidade, revisar os pontos de acessibilidade identificados e validar se a experiência proposta realmente reduz o esforço de controle financeiro para o público prioritário.
 
 **Observação sobre o estágio do projeto:** o protótipo representa uma proposta de interface e navegação. Ele não comprova, por si só, o funcionamento de integrações financeiras, categorização automatizada por inteligência artificial ou persistência de dados em ambiente de produção.
+
+---
+
+## Artefatos de Projeto
+
+- [Projeto Figma](https://www.figma.com/design/minmAsWlUjASLpezBSUrH2/Ozzy-Finances---UX?node-id=0-1&t=7qeqmUicc2uwPJsq-1)
+- [Demonstração do Protótipo no YouTube](https://www.youtube.com/watch?v=xrvYHwoZ_EE)
+- [Repositório de Artefatos](https://github.com/osmarsalesjr/the-ozzy-finances-ui-ux)
+- [Apresentação Pitch](https://github.com/osmarsalesjr/the-ozzy-finances-ui-ux/blob/main/presentation/pitch.pptx)
